@@ -1,0 +1,68 @@
+
+.vijay{
+	width:100%;
+	height:40px;
+
+	background-color:black;
+	color:white;	
+}
+
+.vijay1{
+	color:white;
+	font-size:18px;
+	margin-left:500px;
+	border-right:1px solid red;
+	float:left;
+	
+}
+li{
+	display:inline-block;
+	font-size:28px;
+}
+*{
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+}
+
+input{
+	width:10%;
+	height:auto;
+	padding:5px;
+	border:1px solid green;
+	margin-top:5px;
+}
+
+input{
+	width:100%;
+	padding:7px;
+	border:none;
+	border:1px solid red;
+	border-radius:1px;
+	outline:none;
+}
+
+input[type="button"]
+{
+width:100%;
+height:35px;	
+margin-top:20px;
+border:none;
+background-color:red;
+color:white;
+
+}
+
+button{
+	width:100%;
+	height:35px;
+	margin-top:5px;
+	border:none;
+	border-radius:20px;
+}
+
+
+
+.checked {
+  color: orange;
+}

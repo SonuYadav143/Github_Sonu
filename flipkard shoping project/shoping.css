@@ -1,0 +1,14 @@
+
+.search input[type=text]{
+	padding:6px;
+	margin-top:0;
+	font-size:18px;
+	border:1px solid maroon;
+	border-radius:30px;
+	width:500px;
+	bottom:5px;
+	
+}
+
+
+	

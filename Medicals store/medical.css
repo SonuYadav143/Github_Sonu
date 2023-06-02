@@ -1,0 +1,33 @@
+
+.search input[type=text]{
+	padding:6px;
+	margin-top:10px;
+	font-size:18px;
+	border:1px solid maroon;
+	border-radius:30px;
+	width:500px;
+	bottom:5px;
+	margin:auto;
+
+}
+
+ th:hover{
+background-color:#4680ec;
+font-size:20px;
+
+}
+button:hover{
+	background-color:#4680ec;
+	border:1px solid #4680ec;
+
+
+}
+
+button{	
+width:100px;
+height:40px;
+margin-left:10px;
+
+
+
+}
